@@ -1,0 +1,41 @@
+# Core Data Analysis
+pandas>=1.5
+numpy>=1.23
+scipy>=1.9
+
+# Visualization
+matplotlib>=3.6
+seaborn>=0.12
+plotly>=5.10
+
+# Time Series / Finance
+yfinance>=0.2
+pandas-datareader>=0.10
+statsmodels>=0.13
+
+# Machine Learning
+scikit-learn>=1.2
+xgboost>=1.7
+lightgbm>=3.3
+
+# Deep Learning (Optional for LSTM/RNNs)
+tensorflow>=2.10
+keras>=2.10
+
+# Feature Engineering & Utility
+tsfresh>=0.20
+joblib>=1.2
+tqdm>=4.64
+
+# Web Scraping / APIs
+requests>=2.28
+beautifulsoup4>=4.11
+
+# Notebook / Dev Tools
+jupyterlab>=3.5
+notebook>=6.5
+ipykernel>=6.17
+
+# Geo-political Risk Analysis (Optional NLP tools)
+nltk>=3.7
+transformers>=4.26
